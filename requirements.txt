@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+pypdf
+python-dotenv
+tiktoken
+sentence-transformers

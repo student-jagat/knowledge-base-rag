@@ -1,0 +1,6 @@
+@echo off
+echo Starting Backend...
+start cmd /k "python -m uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000"
+echo Starting Frontend...
+start cmd /k "python -m streamlit run frontend/app.py"
+echo Done.
