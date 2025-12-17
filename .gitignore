@@ -11,4 +11,4 @@ env.bak/
 venv.bak/
 .vscode/
 *.log
-data/faiss_index/
+data/
